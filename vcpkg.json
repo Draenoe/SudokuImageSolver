@@ -1,0 +1,9 @@
+{
+  "name": "sudoku-solving-project",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "opencv4",
+    "tesseract"
+  ],
+  "builtin-baseline": "1577f17ee57f42a0ef6d75bbb82cb37d0b76d7e8"
+}
